@@ -1,0 +1,13 @@
+.registerform{
+    display: block;
+    margin: 20px auto;
+    align-self: center;
+    
+    padding : 2rem;
+    max-width: 50%;
+    background: white;
+}
+.register-header{
+    padding: 1rem auto;
+    text-align: center;
+}

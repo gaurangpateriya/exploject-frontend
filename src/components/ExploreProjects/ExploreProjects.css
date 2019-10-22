@@ -1,0 +1,17 @@
+.project-div{
+    border: solid black 1px;
+    margin : 10px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+.delete-btn{
+    background: none;
+    border : solid red;
+    display: inline-block;
+    background-color: red;
+    border-radius: 50%;
+    height : 50px;
+    align-self: center;
+    margin-right:10px;
+}

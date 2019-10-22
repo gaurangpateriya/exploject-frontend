@@ -1,0 +1,26 @@
+.top-edge{
+
+}
+.profile-cover-img{
+  
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 300px; /* You must set a specified height */
+    width : 100%;
+}
+.profile-side-div{
+    margin-top : -70px;
+    margin-left : 20px;
+    margin-right : 50px;
+    border : solid black ;
+    display: block;
+}
+.profile-cover-main{
+    margin: -70px 20px;
+}
+
+.profile-main-name{
+    color: white;
+}
+.profile-side-img{
+
+}
